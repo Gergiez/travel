@@ -1,0 +1,7 @@
+{
+  "name": "WorldClass - International Travel Agency",
+  "description": "A high-end, modern travel agency platform featuring a full CMS admin dashboard, customizable themes, and international destination management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
